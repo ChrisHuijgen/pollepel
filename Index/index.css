@@ -1,6 +1,5 @@
 #logo{
-    width: 8%;
-    margin: 1%;
+    width: 9%;
     float: left;
 }
 
@@ -13,6 +12,7 @@ body {
     overflow: hidden;
     background-color: lightblue;
     position: -webkit-sticky;
+    height: 13vh;
   
   }
   
